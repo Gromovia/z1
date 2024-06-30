@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilya-\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\LAB4(1)\\Gromov_MathTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E352344A-1A40-4A24-925A-6389A500A49B}|Gromov_MathTask.vcxproj|C:\\Users\\ilya-\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\LAB4(1)\\Gromov_MathTask\\Gromov_MathTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E352344A-1A40-4A24-925A-6389A500A49B}|Gromov_MathTask.vcxproj|solutionrelative:Gromov_MathTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206A2EF4-D6DA-4808-B590-0D92191097A5}|..\\Gromov_MathTaskClassLibraryTests,\\Gromov_MathTaskClassLibraryTests,.vcxproj|C:\\Users\\ilya-\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\LAB4(1)\\Gromov_MathTaskClassLibraryTests,\\Gromov_MathTaskClassLibraryTests,.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gromov_MathTaskClassLibraryTests,.cpp",
+              "DocumentMoniker": "C:\\Users\\ilya-\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\LAB4(1)\\Gromov_MathTaskClassLibraryTests,\\Gromov_MathTaskClassLibraryTests,.cpp",
+              "RelativeDocumentMoniker": "..\\Gromov_MathTaskClassLibraryTests,\\Gromov_MathTaskClassLibraryTests,.cpp",
+              "ToolTip": "C:\\Users\\ilya-\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\LAB4(1)\\Gromov_MathTaskClassLibraryTests,\\Gromov_MathTaskClassLibraryTests,.cpp",
+              "RelativeToolTip": "..\\Gromov_MathTaskClassLibraryTests,\\Gromov_MathTaskClassLibraryTests,.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwDQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-30T12:49:44.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gromov_MathTask.cpp",
+              "DocumentMoniker": "C:\\Users\\ilya-\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\LAB4(1)\\Gromov_MathTask\\Gromov_MathTask.cpp",
+              "RelativeDocumentMoniker": "Gromov_MathTask.cpp",
+              "ToolTip": "C:\\Users\\ilya-\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\LAB4(1)\\Gromov_MathTask\\Gromov_MathTask.cpp",
+              "RelativeToolTip": "Gromov_MathTask.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-30T12:47:14.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
